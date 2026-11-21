@@ -10,6 +10,9 @@ const RONDE5_DATA = {
             vraag3_zinEind: "yoghurt voor iedereen",
             vraag4_keywords: ["Verkiezingen voorzitterschap", "DDT, Oscar en Boma"]
         },
+
+        het kampioenenbal xavier die zingt op het einde
+        
         {
             videoBron: "./fragmenten/fragment2.mp4", 
             thumbnail: "./fragmenten/thumbnail2.png",
