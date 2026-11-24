@@ -9,6 +9,7 @@ const RONDE4_DATA = {
         { foto: "./fragmenten/r4_foto7.jpg", antwoord: "Rode kaart" },
          { foto: "./fragmenten/r4_foto8.jpg", antwoord: "Keeper gezocht" },
         { foto: "./fragmenten/r4_foto9.jpg", antwoord: "De bende van Boma" },
+        { foto: "./fragmenten/r4_foto10.jpg", antwoord: "Succes verzekerd" },
        
     ]
 };
