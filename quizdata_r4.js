@@ -7,6 +7,7 @@ const RONDE4_DATA = {
         { foto: "./fragmenten/r4_foto5.jpg", antwoord: "De erfenis" },
         { foto: "./fragmenten/r4_foto6.jpg", antwoord: "De scheidsrechter" },
         { foto: "./fragmenten/r4_foto7.jpg", antwoord: "Rode kaart" },
+         { foto: "./fragmenten/r4_foto8.jpg", antwoord: "Keeper gezocht" },
        
     ]
 };
